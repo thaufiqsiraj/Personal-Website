@@ -7,4 +7,4 @@ The goal was to make it completely uninteractive to the user, yet give off a lot
 - Firstly, I designed it in Figma which did take a lot of time starting from scratch. The design went back and forth with multiple types. 
 -  Finally, Apple Music color pallette seemed to be the perfect go. It is a beauty in in itself.
 - Then I chose to use Replit. It is very comfortable to use for machines like mine where downloading external software is a Nightmare!
-- If you are wondering, I use Asus C202SA (base model)
+- If you are wondering, I use Asus C202SA (base model). So it is evident that it is not just difficult but sometimes straight up impossible to make good webites. Yet, here we are.
